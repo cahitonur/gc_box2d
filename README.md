@@ -1,3 +1,3 @@
-Bsed on http://sourceforge.net/projects/box2d-js/
+Based on http://sourceforge.net/projects/box2d-js/
 
 In Progress..

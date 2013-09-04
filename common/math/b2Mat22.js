@@ -1,6 +1,6 @@
 import common.math.b2Vec2 as b2Vec2;
 
-var b2Math22 = exports = Class(function () {
+var b2Mat22 = exports = Class(function () {
 
 	this.init = function(angle, c1, c2) {
 		if (angle==null) angle = 0;
